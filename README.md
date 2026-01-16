@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Laili 👋
 
-<!--
-**LailiNemati/lailinemati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Front-End Developer  
+💻 HTML • CSS • JavaScript  
 
-Here are some ideas to get you started:
+🌱 Currently learning and building responsive web projects  
+🚀 Interested in junior front-end roles and internships  
+📫 Reach me on LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (Basic DOM, Events)
+
+### 📌 Projects
+Check out my pinned repositories below 👇
+
