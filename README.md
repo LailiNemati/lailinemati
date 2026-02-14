@@ -5,7 +5,7 @@
 
 🌱 Currently learning and building responsive web projects  
 🚀 Interested in junior front-end roles and internships  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/LailiNemati/)
 
 ### 🔧 Featured Projects
 - [Persian Poem Generator](https://lailinemati.github.io/Persian-poem-generator/) – A web app that generates Persian poems dynamically
